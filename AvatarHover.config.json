@@ -1,0 +1,15 @@
+{
+    "settings": {
+        "avatarBackgroundColor": "#303336",
+        "avatarBorderRadius": "4px",
+        "avatarBorderSize": "1px",
+        "avatarBorderColor": "black",
+        "isShown": false,
+        "isLarge": false,
+        "isHoverGuilds": false,
+        "isHoverChannels": true,
+        "isHoverFriends": true,
+        "isHoverChatMessages": true,
+        "isHoverChatUsers": true
+    }
+}

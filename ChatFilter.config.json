@@ -1,0 +1,27 @@
+{
+	"settings": {
+		"showMessageOnClick": {
+			"blocked": true,
+			"censored": true
+		},
+		"hideMessage": {
+			"blocked": false,
+			"censored": false
+		}
+	},
+	"replaces": {
+		"blocked": "~~BLOCKED~~",
+		"censored": "$!%&%!&"
+	},
+	"words": {
+		"blocked": {
+			"fuck": {
+				"replace": "hell",
+				"empty": false,
+				"case": false,
+				"exact": true,
+				"regex": false
+			}
+		}
+	}
+}

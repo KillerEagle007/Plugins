@@ -1,0 +1,11 @@
+{
+	"settings": {
+		"addInUserPopout": true,
+		"addInUserProfil": true,
+		"addCreationTime": true,
+		"forceZeros": false
+	},
+	"choices": {
+		"creationDateLang": "$discord"
+	}
+}
